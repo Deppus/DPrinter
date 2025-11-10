@@ -1,6 +1,11 @@
 # DPrinter
 DarkRP Printer 
 
+## Fonts:
+```
+https://steamcommunity.com/sharedfiles/filedetails/?id=3603227216
+```
+
   Battery System \
   Ink & Paper System \
   3D2D & Derma \
